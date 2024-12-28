@@ -1,3 +1,4 @@
+//This program was developed during the 7th semester of 2024-2025 and is the associated software for a guitar effect pedal featuring an ESP32 developed during the same period - JVDS
 
 //I2C library
 #include <Wire.h>
